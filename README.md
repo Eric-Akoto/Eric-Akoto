@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eric-Akoto
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL, Excel and Power BI
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me akotoeric310@gmail.com
 - 😄 Pronouns: He/Him
